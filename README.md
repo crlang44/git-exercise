@@ -58,7 +58,7 @@ Benson -
 
 
 Chris -
-
+Soccer is the number 1 sport in the world for a reason. Super fun. :)
 
 David - Vidya games, Go/Baduk, and reddit
 
@@ -66,4 +66,4 @@ David - Vidya games, Go/Baduk, and reddit
 Thomas - Fishing
 
 
-Tricia -
+Tricia - I love skiing! I've been doing it for 17 years, and it's just about the only thing I will brag about. 
