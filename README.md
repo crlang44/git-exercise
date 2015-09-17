@@ -1,4 +1,4 @@
-This is version 1 of the README.md
+This is version 2 of the README.md
 
 #### Part 1 ####
 
@@ -63,7 +63,7 @@ Chris -
 David -
 
 
-Thomas -
+Thomas - Fishing
 
 
 Tricia -
