@@ -60,7 +60,7 @@ Benson -
 Chris -
 
 
-David -
+David - Vidya games, Go/Baduk, and reddit
 
 
 Thomas -
