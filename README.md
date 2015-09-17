@@ -1,4 +1,4 @@
-This is version 1 of the README.md
+This is version 2 of the README.md
 
 #### Part 1 ####
 
@@ -52,18 +52,18 @@ can received the changes we have made. We will use
 #### Team Members: ####
 
 Anna -
-
+Doggie doggie doo
 
 Benson - WUBBA LUBBA DUB DUB
 
 
 Chris -
+Soccer is the number 1 sport in the world for a reason. Super fun. :)
+
+David - Vidya games, Go/Baduk, and reddit
 
 
-David -
+Thomas - Fishing
 
 
-Thomas -
-
-
-Tricia -
+Tricia - I love skiing! I've been doing it for 17 years, and it's just about the only thing I will brag about. 
