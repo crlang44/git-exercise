@@ -1,4 +1,4 @@
-This is version 1 of the README.md
+This is version 2 of the README.md
 
 #### Part 1 ####
 
@@ -66,4 +66,4 @@ David - Vidya games, Go/Baduk, and reddit
 Thomas -
 
 
-Tricia -
+Tricia - I love skiing! I've been doing it for 17 years, and it's just about the only thing I will brag about. 
