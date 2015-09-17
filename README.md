@@ -52,7 +52,7 @@ can received the changes we have made. We will use
 #### Team Members: ####
 
 Anna -
-
+Doggie doggie doo
 
 Benson -
 
@@ -60,7 +60,7 @@ Benson -
 Chris -
 
 
-David -
+David - Vidya games, Go/Baduk, and reddit
 
 
 Thomas - Fishing
